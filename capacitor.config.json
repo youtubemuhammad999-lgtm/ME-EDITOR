@@ -1,0 +1,6 @@
+{
+  "appId": "com.meeditor.app",
+  "appName": "ME EDITOR",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
